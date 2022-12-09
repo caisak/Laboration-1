@@ -1,5 +1,6 @@
 addEventListener('DOMContentLoaded', main);
 
+//Program starts here
 function main() {
 setUserName();
 
