@@ -1,4 +1,23 @@
+addEventListener('DOMContentLoaded', main);
 
-alert("Sorry guys, because of a family emergency I have not completed this assigment. My deepest apologies to you and myself, and I promise to do better once you have failed me. Here's a nice alert because I'm not redoing the course next year")
+function main() {
+setUserName();
 
-prompt("Would you like to send me a message?")
+}
+
+let myButton = document.querySelector("button");
+let myHeading = document.querySelector("h1");
+
+function setUserName() {
+    const myName = prompt("Please enter your name.");
+    if (!myName) {
+        setUserName();
+    } else {
+        localStorage.setItem("name", myName);
+        myHeading.textContent = `Welcome home, ${myName}`;
+    }
+}
+
+myButton.onclick = () => {
+    setUserName();
+}
