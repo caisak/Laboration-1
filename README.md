@@ -15,7 +15,7 @@ The user can then click on different rooms and read a description of each room a
 
 When the user has found the cat the message "You found the cat, great job ${myName}! is displayed and the game is over.
 
-## Limitations:
+## Delimitations:
 * I am (currently) bad at JavasScript
 * Due to two (!) family emergencies I have one braincell that I share with all orange cats around the world and my work is shit.
 * I wish I could paint a really cute cat but my cat looks like shit and I couldn't make the background transparent in the software I used to draw (sketchbook)
