@@ -11,7 +11,7 @@ I was inspired by the children's book "Historien Om Någon" by Egon Möller-Niel
 
 My story takes the player to their apartment where they are informed that their cat has hidden and that they need to locate it. 
 
-The user can then click on different rooms and read a description of each room and choose to enter the rooms. Inside the rooms they can check if the cat is inside of a vase, a closet, a cat bed or a box.
+The user can then click on different rooms and read a description of each room and choose to enter the rooms. Inside the rooms they can check if the cat is inside of a vase, a closet, a cat bed or a cardboard box.
 
 When the user has found the cat the message "You found the cat, great job ${myName}! is displayed and the game is over.
 
