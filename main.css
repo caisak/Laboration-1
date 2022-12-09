@@ -7,6 +7,17 @@ h1 {
     color: hotpink;
 }
 
+button {
+    width: 8rem;
+    height: 3rem;
+    border-radius: 0.5rem;
+    border: none;
+}
+button:hover {
+    background: hotpink;
+    color: #FFFF;
+}
+
 /* Reusable styles */
 
 .flex {
