@@ -5,4 +5,4 @@ function main() {
 
 }
 
-alert("Your cat has hidden! Look around in your apartment to find it.")
+alert("Your cat has hidden! Look around your apartment to find it.")
