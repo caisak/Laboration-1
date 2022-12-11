@@ -1,26 +1,26 @@
 
 alert("Click the different buttons to look for your cat!");
 
-document.getElementById('shower').onclick = function() {
-  shower()
+document.getElementById('cabinets').onclick = function() {
+  cabinets()
 };
 
-function shower() {
-  alert("The cat wasn't in the shower :(")
+function cabinets() {
+  alert("The cat wasn't on top of the cabinets :( strange, the cat loves hanging out there.")
 }
 
-document.getElementById('litterbox').onclick = function() {
-  litterbox()
+document.getElementById('chair').onclick = function() {
+  chair()
 };
 
-function litterbox() {
-  alert("The cat wasn't inside the litterbox :( but there's a lot of poop here, you should probably clean that up. ")
+function chair() {
+  alert("The cat wasn't on the chair :(")
 }
 
-document.getElementById('laundry').onclick = function() {
-  laundry()
+document.getElementById('box').onclick = function() {
+  box()
 };
 
-function laundry() {
-  alert("The cat wasn't inside the laundry hamper :( you really need to do your laundry though.")
+function box() {
+  alert("CONGRATULATIONS YOU FOUND YOUR CAT NOW SNUGGLE IT")
 }
