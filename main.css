@@ -1,6 +1,7 @@
 /* Specific styles */
 body {
     background: #d4a9c8;
+    margin: auto;
 }
 
 a:link {
@@ -40,6 +41,7 @@ nav {
     height: 3rem;
 }
 
+
 /* Reusable styles */
 
 .flex {
@@ -64,6 +66,10 @@ nav {
 
 .m-4 {
     margin: 4rem;
+}
+
+.full-height {
+    height: 100%;
 }
 
 
