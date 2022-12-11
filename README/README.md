@@ -1,4 +1,4 @@
-# Laboration 1
+# Gone, kitty, gone
 
 ## Installation
 No installation needed, open in browser by clicking the link [here]()
