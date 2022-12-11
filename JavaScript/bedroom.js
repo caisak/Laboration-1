@@ -1,11 +1,26 @@
 
-const myImage = document.getElementById("closet-closed");
+alert("Click the different buttons to look for your cat!");
 
-myImage.onclick = () => {
-  const mySrc = myImage.getAttribute("src");
-  if (mySrc === "images/firefox-icon.png") {
-    myImage.setAttribute("src", "images/closet-closed.png");
-  } else {
-    myImage.setAttribute("src", "images/closet-open.png");
-  }
+document.getElementById('bed').onclick = function() {
+  bed()
 };
+
+function bed() {
+  alert("The cat wasn't under the bed :(")
+}
+
+document.getElementById('covers').onclick = function() {
+  covers()
+};
+
+function covers() {
+  alert("The cat wasn't under the covers :(")
+}
+
+document.getElementById('closet').onclick = function() {
+  closet()
+};
+
+function closet() {
+  alert("The cat wasn't inside the closet :(")
+}
