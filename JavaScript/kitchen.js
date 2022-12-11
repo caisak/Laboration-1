@@ -22,5 +22,8 @@ document.getElementById('box').onclick = function() {
 };
 
 function box() {
-  alert("CONGRATULATIONS YOU FOUND YOUR CAT NOW SNUGGLE IT")
+  document.getElementById('box').innerHTML = "Congratulations! You found your cat!";
+  document.getElementById('box').style.color = 'white';
+  document.getElementById('box').style.backgroundColor = 'hotpink';
 }
+
