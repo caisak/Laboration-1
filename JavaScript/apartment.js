@@ -1,2 +1,2 @@
 
-alert("Your cat has hidden! Look around your apartment to find it.")
+alert("Look around your apartment and enter different rooms by clicking the buttons!")
