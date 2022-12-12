@@ -4,7 +4,7 @@
 No installation needed, open in browser by clicking the link [here](https://caisak.github.io/Laboration-1/)
 
 ## Assignment
-This is the first JavaScript assignment in the JavaScript Basics course. The assignment is to create a text based interactive experience where the user can make changes in a world. These changes can be anything from going to another room or picking up items to talking to NPCs.
+This is the first JavaScript assignment in the JavaScript Basics course. The assignment is to create a text based interactive experience where the user can interact inside a world. The interaction can be anything from going to another room or picking up items to talking to NPCs.
 
 ## Specific requirements for a passing grade:
 * Prompt is used to ask the user for commands
