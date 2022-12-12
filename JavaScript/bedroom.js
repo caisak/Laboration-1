@@ -1,12 +1,13 @@
 
 alert("Click the different buttons to look for your cat!");
 
+// alerts for when the buttons are clicked
 document.getElementById('bed').onclick = function() {
   bed()
 };
 
 function bed() {
-  alert("The cat wasn't under the bed :(")
+  alert("The cat wasn't under the bed :( but you could probably make a cat out of all this dust.")
 }
 
 document.getElementById('covers').onclick = function() {

@@ -1,6 +1,7 @@
 
 alert("Click the different buttons to look for your cat!");
 
+// alerts for when the buttons are clicked
 document.getElementById('shower').onclick = function() {
   shower()
 };

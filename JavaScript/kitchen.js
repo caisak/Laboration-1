@@ -1,6 +1,7 @@
 
 alert("Click the different buttons to look for your cat!");
 
+// alerts for when the buttons are clicked
 document.getElementById('cabinets').onclick = function() {
   cabinets()
 };
@@ -25,5 +26,8 @@ function box() {
   document.getElementById('box').innerHTML = "Congratulations! You found your cat!";
   document.getElementById('box').style.color = 'white';
   document.getElementById('box').style.backgroundColor = 'hotpink';
+  
 }
+
+
 
