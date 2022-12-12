@@ -16,6 +16,7 @@ This is the first JavaScript assignment in the JavaScript Basics course. The ass
 
 ## Delimitations:
 * Clicking the buttons and accompanying alert should probably be written as a loop and not as separate files. But separate files work so that's how it's going to be for this project.
+* The index.html file isn't in the HTML folder because I encountered a problem when posting the link with GitHub pages. I tried changing the branch from root to docs but I couldn't get it to work. Had I not put the index.html file in the root it would've only linked the README.md file and not the actual project.
 * Due to two family emergencies I have one braincell that I share with all orange cats around the world.
 
 ## Project

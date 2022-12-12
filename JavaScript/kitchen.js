@@ -20,6 +20,7 @@ function chair() {
 
 document.getElementById('box').onclick = function() {
   box()
+  alert("Hmm, this box sounds kind of weird...")
 };
 
 function box() {
@@ -28,6 +29,7 @@ function box() {
   document.getElementById('box').style.backgroundColor = 'hotpink';
   
 }
+
 
 
 
